@@ -1,6 +1,6 @@
 # OOPs-Assignment-1-geekster
 ## Project Requirement
-#### Please implement a software for a car service station using Object Oriented Programming. If you are not familiar or
+Please implement a software for a car service station using Object Oriented Programming. If you are not familiar or
 comfortable with object-oriented programming, we suggest you give this article a quick read to ensure you
 understand it before you attempt it.
 It should have the following features:
