@@ -24,3 +24,12 @@ Charges for Engine Fixing – ₹ 5000
 Total Bill – ₹ 7000
 In addition, if the total service bill is more than ₹ 10000, a complimentary cleaning should be provided and specified
 in the bill.
+
+# Approach for this Project
+## 1. Main class to get type of car for Service
+## 2. Creating the switch case to access the required type of car for Service.
+## 3. Creating the object for required type of car
+## 4. Displayig the Price and Services of the car
+## 5. Calculating the total cost for the services of the car
+## 6. If total price is exceeds more than 10000, then Cleaing service is complimentary
+## 7. Display the TOTAL BILL
